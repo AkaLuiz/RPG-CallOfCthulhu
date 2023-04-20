@@ -1,0 +1,86 @@
+a{
+    text-decoration: none;
+}
+
+button{
+    position: relative;
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 700;
+    width: 179px;
+    height: 36px;
+    background: linear-gradient(0deg, #F1F1F1, #F1F1F1), 
+    linear-gradient(0deg, #F1F1F1, #F1F1F1), 
+    linear-gradient(0deg, #F1F1F1, #F1F1F1), #F1F1F1;
+    border-radius: 14px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+input{
+    position: relative;
+    width: 179px;
+    height: 36px;
+    background: linear-gradient(0deg, #F1F1F1, #F1F1F1), 
+    linear-gradient(0deg, #F1F1F1, #F1F1F1), 
+    linear-gradient(0deg, #F1F1F1, #F1F1F1), #F1F1F1;
+    border-radius: 14px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+input:focus{
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+label{
+    position: relative;
+    width: 42px;
+    height: 34px;
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+p{
+
+    position: relative;
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+img{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    
+}
+
+body{
+
+    background: #19191B;
+}
+
+.rpg{
+    position:relative;
+    width: 172px;
+    height: 115px;
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+
+    color: #FFFFFF;
+}
+div{
+    display:inline-block;
+    text-align:end;
+}
